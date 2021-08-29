@@ -1,9 +1,4 @@
 # Wepapplikasjoner_leoBarzine2021
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-``` 
+# Oblig1 User-stories
+  As a _____, I want to _____, so that _______.  
