@@ -13,6 +13,8 @@
 
 ## Oppgave 2 - Flytediagram
 
+Flytediagram for deltager
+
 ![flytediagram ](https://gyazo.com/7d4b9c5fe4f2bd78de8be401c66e25de.png)
 
 ## Oppgave 3 - Wireframes
