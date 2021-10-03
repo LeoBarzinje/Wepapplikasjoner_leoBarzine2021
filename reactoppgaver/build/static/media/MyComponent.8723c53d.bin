@@ -1,0 +1,12 @@
+// components/MyComponent.js
+import React from "react";
+
+const MyComponent = () => {
+  return (
+    // Her inne er det kun JSX. Dynamiske verdier må bruke { }
+    <h1>My component </h1>
+  );
+};
+
+
+export default MyComponent;

@@ -1,0 +1,2 @@
+(this["webpackJsonpoppgaver-react-v1"]=this["webpackJsonpoppgaver-react-v1"]||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);var c=n(0),r=n.n(c),o=n(3),a=n.n(o),i=(n(8),n.p+"static/media/MyComponent.8723c53d.bin"),p=n(1),s=function(){return Object(p.jsx)(i,{})},d=document.getElementById("root");a.a.render(Object(p.jsx)(r.a.StrictMode,{children:Object(p.jsx)(s,{})}),d)},8:function(t,e,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.e1888179.chunk.js.map
