@@ -1,0 +1,92 @@
+[
+  {
+      "title": "hva er JEST? ",
+      "answers": [
+        { "answere": " Rammeverk for testing ",
+           "correct": true},
+        {
+          "answere": "Biblotek for testing"
+        },
+        {
+          "answere": "Rammeverk for finere kode"
+        },
+        {
+          "answere": "Biblotek for finere kode  "
+         
+        }
+      ],
+      "helper": {
+        "text": "Jest er et rammeverk brukt til testing, det vil si at det gir oss funksjoner for å skrive og kjøre tester."
+      }
+    },
+    
+    {
+      "title": "Hvordan sjekker man hvor mye av koden som er dekket? ",
+      "answers": [
+        { "answere": "[filename] --jest" },
+        {
+          "answere": "jest --Cover [filename]"
+        },
+        {
+          "answere": "Det går ikke "
+        },
+        {
+          "answere": "jest --coverage  ",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Når man kjører testene med Jest kan man be jest om å kalkulere testdekningen, ved å kjøre jest --coverage vil jest vise en tabell som viser test dekningen"
+      }
+    },
+    {
+      "title": "Hva er msw?",
+      "answers": [
+        { "answere": "Mock service worker",
+          "correct": true },
+        {
+          "answere": "Magical sea weed "
+        },
+        {
+          "answere": "Master of Social Work  "
+        },
+        {
+          "answere": "Microsoft Word "
+      
+        }
+      ],
+      "helper": {
+        "text": "Når man kjører testene med Jest kan man be jest om å kalkulere testdekningen, ved å kjøre jest --coverage vil jest vise en tabell som viser test dekningen"
+    }
+  
+
+    },
+    {
+      "title": "Er React vanskelig? ",
+      "answers": [
+        { "answere": " Ja ",
+           "correct": true},
+        {
+          "answere": "Nei",
+          "correct": true}
+        ,
+        {
+          "answere": "Litt",
+          "correct": true
+          
+        },
+        {
+          "answere": "Veldig vanskelig",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "React er forskjellig for alle sammen, noen synes det er vanskelig, andre synes det er lett"
+      }
+    }
+  ]
+  
+
+   
+
+   
