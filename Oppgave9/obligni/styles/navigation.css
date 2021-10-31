@@ -1,0 +1,30 @@
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightblue;
+
+  
+}
+ul{
+  display: flex;
+  margin: 0;
+    padding: 0.5rem;
+    gap: 30px;
+    list-style: none;
+    border-radius: 2px;
+    align-content: space-between;
+    background-color: blue; 
+    }
+
+
+.first{
+  border-radius: 4px;
+  width: 100%;
+  color: red;
+}
+.first:hover{
+  background-color: lightgreen;
+  height: 100%;
+
+}
